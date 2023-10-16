@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://javaid-khan.vercel.app/](https://javaid-khan.vercel.app/)
 
-- 📝 I regularly write articles on [https://absoluteinformations.com/](https://absoluteinformations.com/)
+- 📝 I regularly write articles on [https://absoluteinformations.com/](https://absolute-informations.netlify.app/)
 
 - 💬 Ask me about **JavaScript, ReactJs, NextJs**
 
