@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/javaid_khan19" target="blank"><img src="https://img.shields.io/twitter/follow/javaid_khan19?logo=twitter&style=for-the-badge" alt="javaid_khan19" /></a> </p>
 
-- 🔭 I’m currently working on **Learning Management System in Nextjs**
+- 🔭 I’m currently working on **AI SASS Generator in Nextjs**
 
 - 🌱 I’m currently learning **Prompt Engineering**
 
